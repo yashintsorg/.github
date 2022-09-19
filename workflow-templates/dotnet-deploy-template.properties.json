@@ -1,0 +1,13 @@
+{
+    "name": "DotNet Deploy Action",
+    "description": "A starter template to build and deploy a DotNet app to Azure",
+    "iconName": "NET_Core_Logo",
+    "categories": [
+        "DotNet"
+    ],
+    "filePatterns": [
+        ".nuget/packages",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
