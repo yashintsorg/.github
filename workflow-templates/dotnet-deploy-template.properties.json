@@ -3,7 +3,7 @@
     "description": "A starter template to build and deploy a DotNet app to Azure",
     "iconName": "NET_Core_Logo",
     "categories": [
-        "DotNet"
+        "C#"
     ],
     "filePatterns": [
         ".nuget/packages",
